@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		883761572BFD2A8400804E65 /* 81fNQtNDw8L._UF1000,1000_QL80_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 883761552BFD2A8400804E65 /* 81fNQtNDw8L._UF1000,1000_QL80_.jpg */; };
+		883761582BFD2A8400804E65 /* ab67616d0000b2733a932748138e737296b9cb21.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 883761562BFD2A8400804E65 /* ab67616d0000b2733a932748138e737296b9cb21.jpeg */; };
+		889048BE2BFBB54B004C6EE0 /* png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png in Resources */ = {isa = PBXBuildFile; fileRef = 889048BD2BFBB54B004C6EE0 /* png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png */; };
+		889048C02BFBB571004C6EE0 /* iconfinder-musicmelodysoundaudio19-4105562_113867.png in Resources */ = {isa = PBXBuildFile; fileRef = 889048BF2BFBB571004C6EE0 /* iconfinder-musicmelodysoundaudio19-4105562_113867.png */; };
+		889048C82BFBC004004C6EE0 /* 61873059-1.avif in Resources */ = {isa = PBXBuildFile; fileRef = 889048C22BFBC004004C6EE0 /* 61873059-1.avif */; };
+		889048C92BFBC004004C6EE0 /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889048C32BFBC004004C6EE0 /* maxresdefault.jpg */; };
+		889048CA2BFBC004004C6EE0 /* 81eIMvbLnfL._UF1000,1000_QL80_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889048C42BFBC004004C6EE0 /* 81eIMvbLnfL._UF1000,1000_QL80_.jpg */; };
+		889048CB2BFBC004004C6EE0 /* 71V-9FcLoBL._UF1000,1000_QL80_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889048C52BFBC004004C6EE0 /* 71V-9FcLoBL._UF1000,1000_QL80_.jpg */; };
+		889048CC2BFBC004004C6EE0 /* 71vadYL03PL._UF1000,1000_QL80_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889048C62BFBC004004C6EE0 /* 71vadYL03PL._UF1000,1000_QL80_.jpg */; };
+		889048CD2BFBC004004C6EE0 /* 512oeUxsIzL._UF1000,1000_QL80_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889048C72BFBC004004C6EE0 /* 512oeUxsIzL._UF1000,1000_QL80_.jpg */; };
+		88BD67F62BEE98FC000C19A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BD67F52BEE98FC000C19A4 /* AppDelegate.swift */; };
+		88BD67F82BEE98FC000C19A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BD67F72BEE98FC000C19A4 /* SceneDelegate.swift */; };
+		88BD67FA2BEE98FC000C19A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BD67F92BEE98FC000C19A4 /* ViewController.swift */; };
+		88BD67FD2BEE98FC000C19A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88BD67FB2BEE98FC000C19A4 /* Main.storyboard */; };
+		88BD67FF2BEE98FD000C19A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88BD67FE2BEE98FD000C19A4 /* Assets.xcassets */; };
+		88BD68022BEE98FD000C19A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88BD68002BEE98FD000C19A4 /* LaunchScreen.storyboard */; };
+		88BD680A2BEE9A66000C19A4 /* logotmo.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BD68092BEE9A66000C19A4 /* logotmo.png */; };
+		88BD680C2BEEA49E000C19A4 /* estilo-pintura-noche-estrellada-van-gogh_984314-974.avif in Resources */ = {isa = PBXBuildFile; fileRef = 88BD680B2BEEA49E000C19A4 /* estilo-pintura-noche-estrellada-van-gogh_984314-974.avif */; };
+		88BD680E2BEEA4B3000C19A4 /* cdab257e8c57a1e7fc0b8dec06be4a02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88BD680D2BEEA4B3000C19A4 /* cdab257e8c57a1e7fc0b8dec06be4a02.jpg */; };
+		88F3C8FE2C08EB52005C08A5 /* ALVARADO AGUILAR OSCAR.png in Resources */ = {isa = PBXBuildFile; fileRef = 88F3C8FD2C08EB52005C08A5 /* ALVARADO AGUILAR OSCAR.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		883761552BFD2A8400804E65 /* 81fNQtNDw8L._UF1000,1000_QL80_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "81fNQtNDw8L._UF1000,1000_QL80_.jpg"; sourceTree = "<group>"; };
+		883761562BFD2A8400804E65 /* ab67616d0000b2733a932748138e737296b9cb21.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ab67616d0000b2733a932748138e737296b9cb21.jpeg; sourceTree = "<group>"; };
+		889048BD2BFBB54B004C6EE0 /* png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png"; path = "../png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png"; sourceTree = "<group>"; };
+		889048BF2BFBB571004C6EE0 /* iconfinder-musicmelodysoundaudio19-4105562_113867.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iconfinder-musicmelodysoundaudio19-4105562_113867.png"; path = "../iconfinder-musicmelodysoundaudio19-4105562_113867.png"; sourceTree = "<group>"; };
+		889048C22BFBC004004C6EE0 /* 61873059-1.avif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "61873059-1.avif"; sourceTree = "<group>"; };
+		889048C32BFBC004004C6EE0 /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
+		889048C42BFBC004004C6EE0 /* 81eIMvbLnfL._UF1000,1000_QL80_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "81eIMvbLnfL._UF1000,1000_QL80_.jpg"; sourceTree = "<group>"; };
+		889048C52BFBC004004C6EE0 /* 71V-9FcLoBL._UF1000,1000_QL80_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "71V-9FcLoBL._UF1000,1000_QL80_.jpg"; sourceTree = "<group>"; };
+		889048C62BFBC004004C6EE0 /* 71vadYL03PL._UF1000,1000_QL80_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "71vadYL03PL._UF1000,1000_QL80_.jpg"; sourceTree = "<group>"; };
+		889048C72BFBC004004C6EE0 /* 512oeUxsIzL._UF1000,1000_QL80_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "512oeUxsIzL._UF1000,1000_QL80_.jpg"; sourceTree = "<group>"; };
+		88BD67F22BEE98FC000C19A4 /* PracticaStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticaStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88BD67F52BEE98FC000C19A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		88BD67F72BEE98FC000C19A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		88BD67F92BEE98FC000C19A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		88BD67FC2BEE98FC000C19A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		88BD67FE2BEE98FD000C19A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		88BD68012BEE98FD000C19A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		88BD68032BEE98FD000C19A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88BD68092BEE9A66000C19A4 /* logotmo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logotmo.png; path = ../logotmo.png; sourceTree = "<group>"; };
+		88BD680B2BEEA49E000C19A4 /* estilo-pintura-noche-estrellada-van-gogh_984314-974.avif */ = {isa = PBXFileReference; lastKnownFileType = file; name = "estilo-pintura-noche-estrellada-van-gogh_984314-974.avif"; path = "../estilo-pintura-noche-estrellada-van-gogh_984314-974.avif"; sourceTree = "<group>"; };
+		88BD680D2BEEA4B3000C19A4 /* cdab257e8c57a1e7fc0b8dec06be4a02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cdab257e8c57a1e7fc0b8dec06be4a02.jpg; path = ../cdab257e8c57a1e7fc0b8dec06be4a02.jpg; sourceTree = "<group>"; };
+		88F3C8FD2C08EB52005C08A5 /* ALVARADO AGUILAR OSCAR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ALVARADO AGUILAR OSCAR.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88BD67EF2BEE98FC000C19A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		889048C12BFBC004004C6EE0 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				889048C22BFBC004004C6EE0 /* 61873059-1.avif */,
+				889048C32BFBC004004C6EE0 /* maxresdefault.jpg */,
+				889048C42BFBC004004C6EE0 /* 81eIMvbLnfL._UF1000,1000_QL80_.jpg */,
+				889048C52BFBC004004C6EE0 /* 71V-9FcLoBL._UF1000,1000_QL80_.jpg */,
+				883761552BFD2A8400804E65 /* 81fNQtNDw8L._UF1000,1000_QL80_.jpg */,
+				883761562BFD2A8400804E65 /* ab67616d0000b2733a932748138e737296b9cb21.jpeg */,
+				889048C62BFBC004004C6EE0 /* 71vadYL03PL._UF1000,1000_QL80_.jpg */,
+				889048C72BFBC004004C6EE0 /* 512oeUxsIzL._UF1000,1000_QL80_.jpg */,
+			);
+			path = imgs;
+			sourceTree = "<group>";
+		};
+		88BD67E92BEE98FC000C19A4 = {
+			isa = PBXGroup;
+			children = (
+				88F3C8FD2C08EB52005C08A5 /* ALVARADO AGUILAR OSCAR.png */,
+				889048C12BFBC004004C6EE0 /* imgs */,
+				889048BF2BFBB571004C6EE0 /* iconfinder-musicmelodysoundaudio19-4105562_113867.png */,
+				889048BD2BFBB54B004C6EE0 /* png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png */,
+				88BD680D2BEEA4B3000C19A4 /* cdab257e8c57a1e7fc0b8dec06be4a02.jpg */,
+				88BD680B2BEEA49E000C19A4 /* estilo-pintura-noche-estrellada-van-gogh_984314-974.avif */,
+				88BD68092BEE9A66000C19A4 /* logotmo.png */,
+				88BD67F42BEE98FC000C19A4 /* PracticaStoryBoard */,
+				88BD67F32BEE98FC000C19A4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		88BD67F32BEE98FC000C19A4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88BD67F22BEE98FC000C19A4 /* PracticaStoryBoard.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		88BD67F42BEE98FC000C19A4 /* PracticaStoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				88BD67F52BEE98FC000C19A4 /* AppDelegate.swift */,
+				88BD67F72BEE98FC000C19A4 /* SceneDelegate.swift */,
+				88BD67F92BEE98FC000C19A4 /* ViewController.swift */,
+				88BD67FB2BEE98FC000C19A4 /* Main.storyboard */,
+				88BD67FE2BEE98FD000C19A4 /* Assets.xcassets */,
+				88BD68002BEE98FD000C19A4 /* LaunchScreen.storyboard */,
+				88BD68032BEE98FD000C19A4 /* Info.plist */,
+			);
+			path = PracticaStoryBoard;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88BD67F12BEE98FC000C19A4 /* PracticaStoryBoard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88BD68062BEE98FD000C19A4 /* Build configuration list for PBXNativeTarget "PracticaStoryBoard" */;
+			buildPhases = (
+				88BD67EE2BEE98FC000C19A4 /* Sources */,
+				88BD67EF2BEE98FC000C19A4 /* Frameworks */,
+				88BD67F02BEE98FC000C19A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PracticaStoryBoard;
+			productName = PracticaStoryBoard;
+			productReference = 88BD67F22BEE98FC000C19A4 /* PracticaStoryBoard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88BD67EA2BEE98FC000C19A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					88BD67F12BEE98FC000C19A4 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 88BD67ED2BEE98FC000C19A4 /* Build configuration list for PBXProject "PracticaStoryBoard" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 88BD67E92BEE98FC000C19A4;
+			productRefGroup = 88BD67F32BEE98FC000C19A4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88BD67F12BEE98FC000C19A4 /* PracticaStoryBoard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88BD67F02BEE98FC000C19A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				889048CB2BFBC004004C6EE0 /* 71V-9FcLoBL._UF1000,1000_QL80_.jpg in Resources */,
+				88BD680E2BEEA4B3000C19A4 /* cdab257e8c57a1e7fc0b8dec06be4a02.jpg in Resources */,
+				889048BE2BFBB54B004C6EE0 /* png-transparent-music-player-logo-blue-area-text-brand-itunes-blue-text-trademark.png in Resources */,
+				889048CD2BFBC004004C6EE0 /* 512oeUxsIzL._UF1000,1000_QL80_.jpg in Resources */,
+				88BD68022BEE98FD000C19A4 /* LaunchScreen.storyboard in Resources */,
+				889048C02BFBB571004C6EE0 /* iconfinder-musicmelodysoundaudio19-4105562_113867.png in Resources */,
+				88BD680C2BEEA49E000C19A4 /* estilo-pintura-noche-estrellada-van-gogh_984314-974.avif in Resources */,
+				883761572BFD2A8400804E65 /* 81fNQtNDw8L._UF1000,1000_QL80_.jpg in Resources */,
+				889048C82BFBC004004C6EE0 /* 61873059-1.avif in Resources */,
+				88BD67FF2BEE98FD000C19A4 /* Assets.xcassets in Resources */,
+				88F3C8FE2C08EB52005C08A5 /* ALVARADO AGUILAR OSCAR.png in Resources */,
+				889048C92BFBC004004C6EE0 /* maxresdefault.jpg in Resources */,
+				883761582BFD2A8400804E65 /* ab67616d0000b2733a932748138e737296b9cb21.jpeg in Resources */,
+				88BD67FD2BEE98FC000C19A4 /* Main.storyboard in Resources */,
+				889048CA2BFBC004004C6EE0 /* 81eIMvbLnfL._UF1000,1000_QL80_.jpg in Resources */,
+				88BD680A2BEE9A66000C19A4 /* logotmo.png in Resources */,
+				889048CC2BFBC004004C6EE0 /* 71vadYL03PL._UF1000,1000_QL80_.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88BD67EE2BEE98FC000C19A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88BD67FA2BEE98FC000C19A4 /* ViewController.swift in Sources */,
+				88BD67F62BEE98FC000C19A4 /* AppDelegate.swift in Sources */,
+				88BD67F82BEE98FC000C19A4 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		88BD67FB2BEE98FC000C19A4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88BD67FC2BEE98FC000C19A4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		88BD68002BEE98FD000C19A4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88BD68012BEE98FD000C19A4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		88BD68042BEE98FD000C19A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		88BD68052BEE98FD000C19A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		88BD68072BEE98FD000C19A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PracticaStoryBoard/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = UTT.PracticaStoryBoard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		88BD68082BEE98FD000C19A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PracticaStoryBoard/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = UTT.PracticaStoryBoard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		88BD67ED2BEE98FC000C19A4 /* Build configuration list for PBXProject "PracticaStoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88BD68042BEE98FD000C19A4 /* Debug */,
+				88BD68052BEE98FD000C19A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88BD68062BEE98FD000C19A4 /* Build configuration list for PBXNativeTarget "PracticaStoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88BD68072BEE98FD000C19A4 /* Debug */,
+				88BD68082BEE98FD000C19A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 88BD67EA2BEE98FC000C19A4 /* Project object */;
+}
